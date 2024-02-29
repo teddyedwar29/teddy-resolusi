@@ -1,6 +1,13 @@
 Rencana Saya Kedepannya di tahun 2024
 
 -PHP
+  * OOP
+  * MVC
 -Laravel
 -JavaScript
+  * ES6
+  * DOM
+  * Framework
 -Bahasa Inggris
+  * Reading
+  * Listening
