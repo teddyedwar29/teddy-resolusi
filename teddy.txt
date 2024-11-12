@@ -1,3 +1,4 @@
 TEDDY RESOLUSI
 - konsisten belajar
 - saat ini saya belajar laravel
+- tapi harus belajar github dan git dlu
